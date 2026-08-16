@@ -26,3 +26,10 @@ Festival dates and timing claims should be supported by reliable Panchang source
 
 
 Compatibility copy. The canonical machine-readable file is /llms.txt.
+
+
+## Blog
+- https://festivaltools.github.io/blog.html
+- https://festivaltools.github.io/blog/ganesh-chaturthi-2026-date.html
+- https://festivaltools.github.io/blog/ganesh-chaturthi-2026-muhurat.html
+- https://festivaltools.github.io/blog/ganesh-chaturthi-2026-puja-visarjan.html

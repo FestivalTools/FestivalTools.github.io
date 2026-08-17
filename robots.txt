@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://FestivalTools.github.io/sitemap.xml

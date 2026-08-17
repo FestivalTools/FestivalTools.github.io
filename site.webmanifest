@@ -1,9 +1,0 @@
-{
-  "name": "FestivalTools",
-  "short_name": "FestivalTools",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#fffdf7",
-  "theme_color": "#d35400",
-  "description": "Indian Festival Calendar 2026"
-}
